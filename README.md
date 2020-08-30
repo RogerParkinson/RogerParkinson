@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roger
 
-<img src="" alt="Picture of Roger">
+<img src="me.jpg" alt="Picture of Roger">
 I'm a software engineer who likes working with Java and C++, and sometimes with Kotlin and Go.
 
 My repositories include:
