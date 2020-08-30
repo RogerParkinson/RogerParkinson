@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roger
 
-<img src="me.jpg">
+<img src="me.jpg" alt="">
 I'm a software engineer who likes working with Java and C++, and sometimes with Kotlin and Go. There are two kinds of repositories here. One is (mostly Java) software I've developed in the course of my professional life, the other contains details of my electronics projects which includes C++, Eagle PDB layouts and 3D print files.
 
 My repositories include:
